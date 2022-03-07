@@ -1,0 +1,64 @@
+body{
+    background-image: url(https://aranzazu.com/wp-content/uploads/2020/03/chocolate-nuez-slider.jpg);
+    color: rgb(255, 255, 255);
+    font-style: italic;
+}
+
+.bienvenida{
+    background-image: url(https://www.todofondos.net/wp-content/uploads/57-fondos-de-pantalla-de-color-rosa-claro.-imagen-rosa-liso-scaled.jpg);
+    width: 1349px;
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 0px;
+    top: 0px;
+    left: 0px;
+    border-image-outset: 0px;
+}
+
+.sabores{
+    background-image: url(./Imagenes/pastel.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    width: 1349px;
+    position: absolute;
+    color: rgb(0, 0, 0);
+    font-size: px;
+    font-style:normal ;
+    inset: 0px;
+    top: 400px;
+    left: 0px;
+    
+}
+
+h2{
+    font-size: 60px;
+    color: black;
+}
+
+.letsabores{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+
+.ladornos{
+    font-size: 25px;
+    color: black;
+}
+
+.adornos{
+    background-image: url(./Imagenes/adorno.jpeg);
+    background-size: center;
+    height: 400px;
+    width: 1349px;
+    position:absolute;
+    top: 805px;
+    left: 0px;
+   
+}
+
+.botones{
+    position: absolute;
+    top: 1220px;
+    left: 0px;
+}
